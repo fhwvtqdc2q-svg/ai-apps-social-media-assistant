@@ -1,0 +1,15 @@
+ai-apps-social-media-assistant/
+├── prompts/
+│   ├── app-code-explain.md
+│   ├── app-ui-improve.md
+│   ├── app-feature-ideas.md
+│   ├── social-post.md
+│   ├── social-video-script.md
+│   ├── social-caption.md
+│   └── social-comments-reply.md
+│
+├── examples/
+│   ├── app-example.md
+│   └── social-example.md
+│
+└── README.md
